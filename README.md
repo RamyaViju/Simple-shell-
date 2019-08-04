@@ -19,7 +19,7 @@ To use in your program, you must include parse.h and call the function
 parse(), which return a Pipe data structure.  (See main.c)  The Pipe
 contains all the information in a line of input to a shell.
 
-==========================
+
 Author: Ramya Vijayakumar
 =========================
 
